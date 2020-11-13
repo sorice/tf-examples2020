@@ -15,4 +15,4 @@ pandas
 sklearn
 
 #Deep Learning
-tensorflow==1.13.1
+tensorflow==2.3.1
