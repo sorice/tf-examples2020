@@ -1,6 +1,3 @@
-__This Repo is CLOSED__ in order to develop tf2.0 Tutorial
-[https://github.com/wittylytics/tensor-rfl.git](https://github.com/wittylytics/tensor-rfl.git)
-
 # PyData Montreal 2020 TensorFlow Tutorial
 
 *Instructor: [Abel Meneses-Abad](https://menesesabad.com)*
@@ -80,9 +77,7 @@ This is an introductory tutorial to learn to work with tensorflow and
 tensorboard in a basic way (if learning ANN could be basic in certain 
 way). In the current moment (2019) tensorflow2.0 is ready, so a huge 
 number of changes has been introduced for better design of Neural 
-Network, debuging and deployment. A [second repository](https://github.com/wittylytics/tensor-rfl.git) 
-will reproduce the majority of this topics and others new with the same 
-goal.
+Network, debuging and deployment.
 
 ### Copyright Note
 This collection of notebooks is based on 
